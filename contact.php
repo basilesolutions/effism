@@ -1,5 +1,5 @@
 <?php
-ob_start();
+ob_start(basil);
 session_start(main);
 
 extract($_POST);
