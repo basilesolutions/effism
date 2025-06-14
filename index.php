@@ -9,7 +9,7 @@
 
     <meta name="description" content="
 
-Founded by Mr. Sohan Roy on 28th March 1998 in UAE, Aries Group was started with its flagship unit, Aries Marine, and then grown to become one of the largest 
+Founded by Mr. Sohan Roy on 28th March 2000 in UAE, Aries Group was started with its flagship unit, Aries Marine, and then grown to become one of the largest 
 multinational conglomerates in the Middle East with 66 companies operating in 116 countries across the world. Within a short 
 span of 25 years">
     <meta property="og:image" content="https://www.ariesgroupglobal.com/images/argp.png">
