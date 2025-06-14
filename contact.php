@@ -1,6 +1,6 @@
 <?php
 ob_start();
-session_start();
+session_start(main);
 
 extract($_POST);
 if (isset($_POST['submit_x'])) {
